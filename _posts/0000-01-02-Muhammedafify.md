@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+^_^ I am a mechanical engineer not a code ! 
 Use the left arrow to go back!
